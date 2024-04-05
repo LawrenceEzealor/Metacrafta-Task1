@@ -1,7 +1,7 @@
 # Lend Contract
 
-This Solidity smart contract enables lending and repayment functionalities between a lender and borrowers on the Ethereum blockchain.
-A lending contract is a type of smart contract that allows two parties to make an agreement for the exchange of assets. in THis COntract We Have The Lender and the Borrower
+
+This Solidity smart contract facilitates lending and repayment interactions between a lender and borrowers on the Ethereum blockchain. Essentially, it's a smart contract that enables two parties to establish an agreement for asset exchange. In this contract, we have distinct roles: the Lender and the Borrower
 
 ## Installation
 
